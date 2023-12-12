@@ -13,7 +13,7 @@ Fault tolerance
 
 **ChatGPT:**
 
-The feature of the AWS Cloud that aligns with the goal of quickly delivering new functionality in an iterative manner, minimizing time to market, is "Agility." AWS offers various services and tools that enable rapid development, deployment, and scaling of applications, allowing businesses to be more agile in responding to market demands and changing requirements.
+The feature of the AWS Cloud that aligns with the goal of quickly delivering new functionality in an iterative manner, minimizing time to market, is **Agility** AWS offers various services and tools that enable rapid development, deployment, and scaling of applications, allowing businesses to be more agile in responding to market demands and changing requirements.
 
 ---
 
